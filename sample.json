@@ -1,4 +1,6 @@
 {
     "id": "1",
     "name": "Gourav"
+    "age": 26,
+    "gender": "male"
 }
